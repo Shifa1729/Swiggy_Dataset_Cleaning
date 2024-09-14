@@ -31,4 +31,4 @@ This project involves cleaning a Swiggy dataset sourced from Kaggle using MySQL.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/swiggy-data-cleaning.git
+   git clone https://github.com/Shifa1729/swiggy_data_cleaning.git
